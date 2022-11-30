@@ -3,7 +3,7 @@ Apaixonado por tecnologia.
 
 [![Blog](https://img.shields.io/website?label=myprofile.com&style=for-the-badge&url=https://raul-brasiel.github.io/My-profile//)](https://raul-brasiel.github.io/My-profile/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raul_brasiel/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/s2Bx9xFDSn/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/s2Bx9xFDSn)
 
 ![Raul-Brasiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raul-Brasiel&show_icons=true&theme=dracula)
 
